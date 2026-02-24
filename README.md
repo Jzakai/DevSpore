@@ -71,7 +71,7 @@ Labels:
 
 Each sample represents features extracted from reconstructed DHM phase images.
 ```bash
-📁 Repository Structure (Suggested)
+📁 Repository Structure 
 DevSpore/
 │
 ├── ai/
