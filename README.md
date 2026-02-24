@@ -70,7 +70,7 @@ Labels:
 1 → Malaria
 
 Each sample represents features extracted from reconstructed DHM phase images.
-
+```bash
 📁 Repository Structure (Suggested)
 DevSpore/
 │
@@ -87,7 +87,7 @@ DevSpore/
 │   └── merged_blood_dataset.xlsx
 │
 └── README.md
-
+```
 ## Installation
 1️. Create Environment
 ```bash 
